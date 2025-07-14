@@ -1,0 +1,6 @@
+{
+    "sonarlint.connectedMode.project": {
+        "connectionId": "SonarLint-Visual Studio Code 5",
+        "projectKey": "Nathan-specs_S3S-Midland-Stock-website"
+    }
+}
