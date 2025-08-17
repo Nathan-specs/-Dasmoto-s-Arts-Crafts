@@ -2,6 +2,72 @@ h1 {
     display: block;
     inline-size: 100%;
     text-align: center;
+    font-weight: bold;
     font-size: 100px;
-    color:aqua
+    color:khaki;
+    font-family:helvetica;
+    background-image: url('https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg?_gl=1*k7itg3*_gcl_au*MTc3ODMzOTkyNi4xNzQ2ODM3NjM4*_ga*MjMxMTY2NDE5Ny4xNzQ2ODM3NjE3*_ga_3LRZM6TM9L*czE3NTQzNDkwODIkbzE4JGcwJHQxNzU0MzQ5MDgyJGo2MCRsMCRoMA..');
+}
+#Brushes {
+    display: block;
+    color: white;
+    font-size: 32px;
+    text-align: left;
+    font-weight: bold;
+    font-family: helvetica;
+    background-color: mediumspringgreen
+}
+#hacksaw {
+    display: block;
+    color: black;
+    font-size: 32px;
+    text-align: left;
+    font-weight: bold;
+   
+}
+#description {
+    display: block;
+    color: black;
+    font-size: 20px;
+    text-align: left;
+    font-weight: normal;
+    font-family: helvetica;
+}
+span {
+    color: blue;
+    font-weight: bold;
+    font-family: helvetica;
+}
+#frame {
+    display: block;
+    color: white;
+    font-size: 32px;
+    text-align: left;
+    font-weight: bold;
+    font-family: helvetica;
+    background-color: lightcoral
+}
+#frames {
+    display: block;
+    color: black;
+    font-size: 32px;
+    text-align: left;
+    font-weight: bold;
+}
+#paint {
+    display: block;
+    color: black;
+    font-size: 32px;
+    text-align: left;
+    font-weight: bold;
+    font-family: helvetica;
+    background-color: skyblue
+   
+}
+#paints{
+    display: block;
+    color: black;
+    font-size: 32px;
+    text-align: left;
+    font-weight: bold;
 }
